@@ -1,7 +1,7 @@
 Simulate a restriction digest. The user provides a set of DNA sequences in fasta format, the restriction site, and an output file name. 
 
 Requirements:
-- python 3.6 or hiher
+- python 3.6 or higher
 - Biopython installed (pip install biopython)
 
 Restriction site:
